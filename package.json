@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
     "@mui/material": "^5.16.7",
     "@pinecone-database/pinecone": "^3.0.1",
     "next": "14.2.6",
